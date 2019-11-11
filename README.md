@@ -8,6 +8,8 @@ After the model is trained, we will then test model program on new images of tra
 the web.
 
 
+THE WRITEUP TEMPLATE FOR THE PROJECT IS PRESENTED IN [Traffic_Sign_Classifier.ipynb](Traffic_Sign_Classifier.ipynb)
+
 #### Examples of traffic sign classification
 RGB images are converted to grayscale for processing
 ![][image0]
@@ -22,9 +24,6 @@ Anaconda is used for managing my [**dependencies**](https://github.com/udacity/C
 * OS: Ubuntu 16.04 (should work on other platform too)
 
 ### 2. My project files
-
-(Note: the hyperlinks **only** works if you are on the homepage of this GitHub reop,
-and if you are viewing it in "github.io" you can be redirected by clicking the **View the Project on GitHub** on the top)
 
 * [Traffic_Sign_Classifier.ipynb](Traffic_Sign_Classifier.ipynb) is the main code for demos.
 
